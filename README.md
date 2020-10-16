@@ -127,7 +127,7 @@ Days between booking and arrival
 - Engagement
 - Communication between customer and hotel
 
-![total_special_requests](../assets\total_special_requests.png)
+![total_special_requests](/assets/total_special_requests.png)
 
 > Parking Spaces
 
