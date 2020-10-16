@@ -100,7 +100,7 @@ Bookings are due to arrive between July 01, 2015 and August 31, 2017.
 
 > Percentage of cancelled bookings overall is **~37%**
 
-![](D:\Greyatom\Hotel Cancellation Prediction\hotel_cancellation_prediction\assets\percentage_booking_per_status.png)
+![](/assets/percentage_booking_per_status.png)
 
 
 
@@ -109,7 +109,7 @@ Bookings are due to arrive between July 01, 2015 and August 31, 2017.
 - Lead Time
 - Previous Cancellations
 
-![corr_coefficient](D:\Greyatom\Hotel Cancellation Prediction\hotel_cancellation_prediction\assets\corr_coefficient.png)
+![corr_coefficient](/assets/corr_coefficient.png)
 
 > Lead time booking per status
 
@@ -119,7 +119,7 @@ Days between booking and arrival
 - More time to cancel
 - More time for unexpected events
 
-![](D:\Greyatom\Hotel Cancellation Prediction\hotel_cancellation_prediction\assets\lead_time_booking_per_status.png)
+![](/assets/lead_time_booking_per_status.png)
 
 > Special Requests 
 
@@ -135,7 +135,7 @@ Days between booking and arrival
 - Shows commitment to destination
 - Limit customer hotel opinion
 
-![parking_space_required](D:\Greyatom\Hotel Cancellation Prediction\hotel_cancellation_prediction\assets\parking_space_required.png)
+![parking_space_required](/assets/parking_space_required.png)
 
 > Deposit Type
 
@@ -143,7 +143,7 @@ Days between booking and arrival
 - Transient groups who use a travel agent
 - Hotel deposit policies
 
-![deposit_type_bookings_cancelled](D:\Greyatom\Hotel Cancellation Prediction\hotel_cancellation_prediction\assets\deposit_type_bookings_cancelled.png)
+![deposit_type_bookings_cancelled](/assets/deposit_type_bookings_cancelled.png)
 
 
 
