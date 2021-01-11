@@ -1,6 +1,4 @@
 # Hotel Cancellation Prediction
-Contributors: [Ashreet Sangotra](https://github.com/ashreetsangotra), [Niyati Bhayani](https://github.com/niyati-bhayani), [Samira Nigrel](https://github.com/samira-nigrel) and [Manthan Gandhi](https://github.com/manthangandhi)
-
 
 
 ![](https://www.ezeeabsolute.com/blog/wp-content/uploads/2020/07/cancellation_policy.png)
@@ -95,13 +93,11 @@ Bookings are due to arrive between July 01, 2015 and August 31, 2017.
 5. Conclusion
 
 
-
 ## Outcomes
 
 > Percentage of cancelled bookings overall is **~37%**
 
-![](https://github.com/manthangandhi/hotel_cancellation_prediction/tree/main/assets/percentage_booking_per_status.png)
-
+![](https://raw.githubusercontent.com/manthangandhi/hotel_cancellation_prediction/main/assets/percentage_booking_per_status.png)
 
 
 > Features correlated with cancellations
@@ -109,7 +105,7 @@ Bookings are due to arrive between July 01, 2015 and August 31, 2017.
 - Lead Time
 - Previous Cancellations
 
-![corr_coefficient](https://github.com/manthangandhi/hotel_cancellation_prediction/tree/main/assets/corr_coefficient.png)
+![](https://raw.githubusercontent.com/manthangandhi/hotel_cancellation_prediction/main/assets/corr_coefficient.png)
 
 > Lead time booking per status
 
@@ -119,7 +115,7 @@ Days between booking and arrival
 - More time to cancel
 - More time for unexpected events
 
-![](https://github.com/manthangandhi/hotel_cancellation_prediction/tree/main/assets/lead_time_booking_per_status.png)
+![](https://raw.githubusercontent.com/manthangandhi/hotel_cancellation_prediction/main/assets/lead_time_booking_per_status.png)
 
 > Special Requests 
 
@@ -127,7 +123,7 @@ Days between booking and arrival
 - Engagement
 - Communication between customer and hotel
 
-![total_special_requests](https://github.com/manthangandhi/hotel_cancellation_prediction/tree/main/assets/total_special_requests.png)
+![](https://raw.githubusercontent.com/manthangandhi/hotel_cancellation_prediction/main/assets/total_special_requests.png)
 
 > Parking Spaces
 
@@ -135,7 +131,7 @@ Days between booking and arrival
 - Shows commitment to destination
 - Limit customer hotel opinion
 
-![parking_space_required](https://github.com/manthangandhi/hotel_cancellation_prediction/tree/main/assets/parking_space_required.png)
+![](https://raw.githubusercontent.com/manthangandhi/hotel_cancellation_prediction/main/assets/parking_space_required.png)
 
 > Deposit Type
 
@@ -143,7 +139,7 @@ Days between booking and arrival
 - Transient groups who use a travel agent
 - Hotel deposit policies
 
-![deposit_type_bookings_cancelled](https://github.com/manthangandhi/hotel_cancellation_prediction/tree/main/assets/deposit_type_bookings_cancelled.png)
+![](https://raw.githubusercontent.com/manthangandhi/hotel_cancellation_prediction/main/assets/deposit_type_bookings_cancelled.png)
 
 
 
